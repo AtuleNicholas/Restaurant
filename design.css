@@ -1,0 +1,62 @@
+body{
+    background-image: url(images/background-adare-restaurant.jpg);
+}
+#d1{
+    height: 40px;
+    width: 1024px;
+    margin: auto;
+    background-color: rgba(0, 0, 0, 0.384);
+}
+#u1{
+    list-style: none;
+    display: flex;
+    color: white;
+    justify-content: center;
+    text-align: center;
+    ;
+}
+ul li{
+    margin-left: 25px;
+    padding-top: 10px;
+}
+ul li:first-child{
+    margin-left: 0;
+}
+#div1{
+    height: 400px;
+    width: 1024px;
+    color: white;
+    display: block;
+}
+#p{
+    font-size: 80px;
+    font-family: Awake the beauty;
+}
+#p1{
+    width: 500px;
+    margin-top: -50px;
+    justify-items: center;
+    text-align: center;
+}
+#anc{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 440px;
+    color: white;
+}
+#loc{
+    justify-content: center;
+    align-items: center;
+}
+footer{
+    width: 1024px;
+    height: 40px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    background-color: rgba(0, 0, 0, 0.479);
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 15px;
+}
